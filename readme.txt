@@ -4,4 +4,5 @@ Git is a mutable index called stage;
 Git tracks changes.
 Add a new branch called dev.now i del it for test.
 Create a new branch is simple & quick.
-ADD MERGE 
+ADD MERGE
+test01(); 
